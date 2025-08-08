@@ -1,6 +1,4 @@
-🔥 Task 4:
-
-Setup and Use a Firewall on Windows/Linux
+🔥 Task 4:Setup and Use a Firewall on Windows/Linux
 
 📌 Objective
 
@@ -9,6 +7,7 @@ Configure and test basic firewall rules to allow or block network traffic, ensur
 🛠 Tools Used
 
 **Parrot Security OS** (Debian-based penetration testing distribution)
+
 **UFW** (Uncomplicated Firewall) (for Linux/ParrotSec users)
 
 📋 Steps Followed
