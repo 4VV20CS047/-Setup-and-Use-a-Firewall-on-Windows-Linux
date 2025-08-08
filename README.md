@@ -41,22 +41,26 @@ Or Simply,
 
 
 🧠 How Firewall Filters Traffic
+
 A firewall acts as a gatekeeper for your network by filtering incoming and outgoing traffic based on predefined rules.
 Allow Rule: Lets traffic pass through.
 Deny Rule: Blocks traffic completely.
 Default Policy: Decides what happens if no specific rule matches.
 
 📸 Deliverables
+
 Terminal output of applied firewall rules.
 
 
 ✅ Outcome
+
 By completing this task, I gained hands-on experience in:
 Managing firewall rules.
 Blocking and allowing network traffic.
 Understanding how firewalls protect systems from unauthorized access.
 
-🔐 Security Tip: Always ensure SSH access is allowed before applying strict firewall rules to avoid being locked out of remote systems.
+🔐 Security Tip:
+Always ensure SSH access is allowed before applying strict firewall rules to avoid being locked out of remote systems.
 
 
 
