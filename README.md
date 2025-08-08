@@ -1,4 +1,5 @@
 🔥 Task 4: Setup and Use a Firewall on Windows/Linux
+
 📌 Objective
 Configure and test basic firewall rules to allow or block network traffic, ensuring better system security.
 
@@ -23,8 +24,10 @@ In Parrot Security, UFW is available via the terminal.
 
 7️⃣ Remove the test block rule
 If it’s rule number 1 in your list, for example:
+
     #sudo ufw delete 1
 Or Simply,
+
     #sudo ufw delete deny 23
 
 📜 Commands Summary
