@@ -60,6 +60,7 @@ Blocking and allowing network traffic.
 Understanding how firewalls protect systems from unauthorized access.
 
 🔐 Security Tip:
+
 Always ensure SSH access is allowed before applying strict firewall rules to avoid being locked out of remote systems.
 
 
